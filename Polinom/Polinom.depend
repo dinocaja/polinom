@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1609595149 source:c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\polinom\polinom\polinom-main.cpp
+	<iostream>
+	"Polinom.h"
+
+1609590309 c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\polinom\polinom\polinom.h
+	<vector>
+	<iostream>
+
+1609595236 source:c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\polinom\polinom\polinom.cpp
+	<vector>
+	<stack>
+	<iostream>
+	"Polinom.h"
+
+1609798084 source:c:\users\dino\onedrive\radna površina\polinom\polinom\polinom.cpp
+	<vector>
+	<stack>
+	<cmath>
+	<iostream>
+	"Polinom.h"
+
+1609631179 c:\users\dino\onedrive\radna površina\polinom\polinom\polinom.h
+	<vector>
+	<iostream>
+
+1610403023 source:c:\users\dino\onedrive\radna površina\polinom\polinom\polinom-main.cpp
+	<iostream>
+	"Polinom.h"
+
